@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Top 5 séries de comédia</title>
+        <Style>
+            .finzinho{text-align: center; align-items: center;
+
+            }
+        </Style>
+    </head>
+
+<body>
+<h1>Esse é o meu TOP FIVE de séries de comédia icônicas</h1>
+
+<ol type="1">
+    <li> <a href="#friends">Friends</a> </li>
+    <li> <a href="#HIMYM">How I Meet Your Mother</a> </li>
+    <li> <a href="#B99">Brooklyn 99</a> </li>
+    <li> <a href="#TBBT">The Big Bang Theory</a> </li>
+    <li> <a href="#Community">Community</a> </li>
+</ol>
+
+<h1 id="friends">Friends</h1>
+<img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/CD14/production/_108900525_00069908-acdd-4d4c-bb03-a8deb387bf72.jpg">
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus velit dolore sapiente magnam omnis voluptates sed nobis vitae facere harum deleniti architecto, hic corporis accusamus nemo porro dignissimos reprehenderit corrupti.</p>
+
+<h2 id="HIMYM">How I Meet Your Mother</h2>
+<img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/2970945770FC137FF7D5D3408D5D40836FD4C715DE6A1744F6F5AF21B2386827/scale?width=1200&aspectRatio=1.78&format=jpeg">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque vitae aperiam adipisci, quia doloremque perferendis, voluptate dolore veritatis aliquam ducimus voluptatum facere delectus excepturi pariatur quisquam non, odio itaque possimus.</p>
+
+<h3 id="B99">Brooklyn 99</h3>
+<img src="https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/07/7.jpg">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, quia est. A asperiores iure temporibus neque, hic, ducimus magni doloribus accusamus eligendi laboriosam blanditiis enim impedit id totam sapiente sequi.</p>
+
+<h4 id="TBBT">The Big Bang Theory</h4>
+<img src="https://hbomax-images.warnermediacdn.com/images/GXdRsewUPO5uAuwEAABEI/tileburnedin?size=1280x720&partner=hbomaxcom&v=26a5badd79c2cca91aa0c86d604bfd3e&host=art-gallery.api.hbo.com&language=pt-br&w=1280">
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, laborum obcaecati. Possimus, expedita. Excepturi distinctio obcaecati exercitationem voluptates officiis, doloremque dolore sunt possimus cupiditate saepe odit optio sapiente nulla libero!</p>
+
+<h5 id="Community">Community</h5>
+<img src="https://sm.ign.com/ign_br/news/c/community-/community-movie-being-actively-pitched-there-is-definitely-g_wnp3.jpg">
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima fugit quasi unde maxime repudiandae explicabo quos magni autem commodi doloribus, mollitia odio accusantium modi, numquam consectetur animi. Tempore, iusto rem.</p>
+
+<p>Se você se interessou e quer saber mais, assista o video abaixo:</p><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2VTcVb_spU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<div class="finzinho">
+<p style="font-size: smaller;"><b>Lorena Meireles</b></p>
+<a href="https://www.linkedin.com/in/olivmeireles/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 15px;">
+</a>
+</div>
+
+</body>
+</html>
